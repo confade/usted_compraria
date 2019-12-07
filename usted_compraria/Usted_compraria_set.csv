@@ -1,0 +1,10 @@
+random,ID,Edad,Genero,Vive,Vive_2,Ocupacion,Ocupacion,compraria_sexo,Compraria_2,Precio_bs,Material,color,Tipo
+0,12,25,1,Zona Central,1,Universitario,1,1,1,60,0,"Guindo, Plomo",1
+0,24,33,1,Zona Central,1,Universitario,1,1,1,70,0,Plomo,1
+0,9,28,0,Zona Central,1,Profesional,0,,0,50,0,"Plomo, Negro",1
+0,28,23,1,Zona Central,1,Profesional,0,1,1,80,1,"Plomo, Negro",0
+0,5,24,0,Zona Sur,3,Universitario,1,0,1,100,0,Negro,1
+0,2,22,0,Zona Norte,2,Universitario,1,0,1,60,1,Plomo,0
+0,29,21,1,Zona Norte,2,Estudiante (colegio),1,1,1,50,0,Plomo,1
+0,1,21,0,Zona Norte,2,Universitario,1,0,1,70,1,Negro,0
+0,3,23,0,Zona Norte,2,Universitario,1,0,1,70,1,Plomo,1
