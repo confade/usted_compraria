@@ -1,0 +1,39 @@
+Orden,Marca temporal,Cual es tu edad ,Genero,¿Usted en que zona vive?,Que ocupación tiene,Usted compraría esta prenda,¿Qué precio te parece correcto pagar por esta prenda?,¿Que tipo material prefieres? ,Usted que color de prenda elegiría ,Usted prefiere ropa de producción:
+17,7/12/2019 11:53:46,19,Masculino,z_Central,Estudiante,Si,Bs. 40,Delgado,"Plomo, Negro",Nacional
+18,7/12/2019 11:53:48,17,Femenino,z_Central,Estudiante,Si,Bs. 80,Delgado,"Plomo, Negro",Importada
+21,7/12/2019 11:55:56,19,Femenino,z_Norte,Estudiante,No,Bs. 40,Delgado,Negro,Nacional
+29,7/12/2019 12:10:22,21,Masculino,z_Norte,Estudiante,Si,Bs. 50,Grueso,Plomo,Nacional
+9,7/12/2019 11:48:31,28,Femenino,z_Central,Profesional,No,Bs. 50,Grueso,"Plomo, Negro",Nacional
+28,7/12/2019 12:09:03,23,Masculino,z_Central,Profesional,Si,Bs. 80,Delgado,"Plomo, Negro",Importada
+20,7/12/2019 11:55:34,24,Femenino,z_Norte,Profesional,Si,Bs. 50,Grueso,Negro,Importada
+22,7/12/2019 11:56:09,25,Femenino,z_Norte,Profesional,Si,Bs. 100,Grueso,Guindo,Importada
+27,7/12/2019 12:06:00,27,Masculino,z_Norte,Profesional,Si,Bs. 100,Grueso,Plomo,Nacional
+35,7/12/2019 13:15:16,28,Femenino,z_Norte,Profesional,Si,Bs. 50,Grueso,Negro,Importada
+36,7/12/2019 13:15:25,28,Femenino,z_Norte,Profesional,Si,Bs. 50,Grueso,Negro,Importada
+25,7/12/2019 11:59:33,30,Masculino,z_Sur,Profesional,No,Bs. 40,Delgado,Plomo,Importada
+4,7/12/2019 11:47:38,23,Femenino,z_Central,Universitario,Si,Bs. 60,Grueso,Negro,Nacional
+7,7/12/2019 11:48:10,23,Femenino,z_Central,Universitario,Si,Bs. 80,Delgado,"Guindo, Plomo, Negro",Importada
+11,7/12/2019 11:48:58,23,Masculino,z_Central,Universitario,Si,Bs. 70,Delgado,Negro,Nacional
+12,7/12/2019 11:49:25,25,Masculino,z_Central,Universitario,Si,Bs. 60,Grueso,"Guindo, Plomo",Nacional
+13,7/12/2019 11:50:39,23,Masculino,z_Central,Universitario,Si,Bs. 40,Grueso,Negro,Nacional
+15,7/12/2019 11:51:18,24,Femenino,z_Central,Universitario,Si,Bs. 50,Delgado,Negro,Nacional
+23,7/12/2019 11:58:10,26,Masculino,z_Central,Universitario,Si,Bs. 50,Delgado,"Guindo, Plomo",Nacional
+24,7/12/2019 11:59:14,33,Masculino,z_Central,Universitario,Si,Bs. 70,Grueso,Plomo,Nacional
+32,7/12/2019 12:13:38,24,Masculino,z_Central,Universitario,Si,Bs. 90,Delgado,Negro,Importada
+34,7/12/2019 13:06:25,24,Masculino,z_Central,Universitario,Si,Bs. 60,Delgado,Plomo,Nacional
+1,7/12/2019 11:46:44,21,Femenino,z_Norte,Universitario,Si,Bs. 70,Delgado,Negro,Importada
+2,7/12/2019 11:47:12,22,Femenino,z_Norte,Universitario,Si,Bs. 60,Delgado,Plomo,Importada
+3,7/12/2019 11:47:34,23,Femenino,z_Norte,Universitario,Si,Bs. 70,Delgado,Plomo,Nacional
+6,7/12/2019 11:48:01,19,Masculino,z_Norte,Universitario,Si,Bs. 60,Delgado,"Plomo, Negro",Nacional
+8,7/12/2019 11:48:18,24,Masculino,z_Norte,Universitario,Si,Bs. 50,Delgado,Plomo,Importada
+10,7/12/2019 11:48:39,22,Masculino,z_Norte,Universitario,Si,Bs. 90,Grueso,Plomo,Nacional
+14,7/12/2019 11:50:46,21,Masculino,z_Norte,Universitario,No,Bs. 100,Delgado,Negro,Nacional
+16,7/12/2019 11:53:00,24,Femenino,z_Norte,Universitario,Si,Bs. 40,Grueso,Negro,Nacional
+26,7/12/2019 12:02:49,22,Masculino,z_Norte,Universitario,Si,Bs. 50,Grueso,Guindo,Nacional
+30,7/12/2019 12:11:15,22,Masculino,z_Norte,Universitario,Si,Bs. 50,Delgado,Plomo,Nacional
+31,7/12/2019 12:13:01,22,Masculino,z_Norte,Universitario,No,Bs. 40,Delgado,Negro,Importada
+33,7/12/2019 12:39:17,25,Masculino,z_Norte,Universitario,No,Bs. 50,Grueso,Negro,Nacional
+37,7/12/2019 13:32:01,22,Femenino,z_Norte,Universitario,Si,Bs. 50,Grueso,Negro,Importada
+38,7/12/2019 13:58:52,24,Masculino,z_Norte,Universitario,Si,Bs. 40,Grueso,Guindo,Nacional
+5,7/12/2019 11:47:53,24,Femenino,z_Sur,Universitario,Si,Bs. 100,Grueso,Negro,Nacional
+19,7/12/2019 11:54:36,20,Masculino,z_Sur,Universitario,No,Bs. 40,Delgado,Negro,Importada
